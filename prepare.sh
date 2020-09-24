@@ -1,6 +1,3 @@
-rm -r venv
-virtualenv venv
-source venv/bin/activate
-pip install requirements.txt
+apt-get install python3-venv
 
 
